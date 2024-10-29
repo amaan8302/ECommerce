@@ -1,0 +1,34 @@
+.ProductCard.TextPart {
+  transition: transform 2s ease-out;
+}
+.ProductCard:hover .TextPart {
+  transform: translateY(-1rem);
+}
+.ProductCard:hover {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+    rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+.harpa {
+  color: #26a541;
+  margin: 6px 0 -4px;
+}
+.harpaPrice {
+  font-size: 28px;
+  vertical-align: sub;
+}
+.yRaY8j {
+  font-size: 16px;
+  margin-left: 12px;
+  vertical-align: middle;
+  color: #878787;
+  display: inline-block;
+  text-decoration: line-through;
+}
+.UkUFwK {
+  color: #26a541;
+  margin-left: 12px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #388e3c;
+  vertical-align: middle;
+}
